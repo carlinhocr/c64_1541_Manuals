@@ -47,6 +47,7 @@
     <BuildList>
         <FileName>relfile_calculate_record.bas</FileName>
         <FileName>create_rel_file.bas</FileName>
+        <FileName>create_fill_relfile.bas</FileName>
     </BuildList>
     <DetermineBuildOrder>0</DetermineBuildOrder>
     <PaddingByte>0</PaddingByte>
@@ -56,6 +57,17 @@
     <RawExportList />
     <!--End of screen designer settings-->
     <SourceFiles>
+        <SourceFile>
+            <Name>create_fill_relfile.bas</Name>
+            <PrgName />
+            <FileType>1</FileType>
+            <IncludeInBuild>True</IncludeInBuild>
+            <Regions />
+            <Breakpoints />
+            <Bookmarks />
+            <Topmost>False</Topmost>
+            <FileOpen>True</FileOpen>
+        </SourceFile>
         <SourceFile>
             <Name>create_rel_file.bas</Name>
             <PrgName />
